@@ -1,6 +1,12 @@
 # Early Link Generator
 Generates checkout/early links for shopify sites.
 
+## Requirements
+| Requirement | Version |
+| ---|---|
+| Node | ^8.8.0 |
+| NPM | ^5.5.1 |
+
 ## Installation
 
 ### Step 1.<br>

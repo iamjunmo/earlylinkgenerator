@@ -6,6 +6,7 @@ Generates checkout/early links for shopify sites.
 | ---|---|
 | Node | ^8.8.0 |
 | NPM | ^5.5.1 |
+| Git | ^2.15.0
 
 ## Installation
 
